@@ -12,13 +12,11 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Passionate Web Developer & Tech Creator
+              Full Stack Developer
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              I am taking Full Stack Training in several places at clarusway. We are learning to make modern and compatible sites with all devices.
             </p>
 
             <p className="text-muted-foreground">
